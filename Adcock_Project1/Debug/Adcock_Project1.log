@@ -1,0 +1,25 @@
+﻿Build started 10/21/2014 4:34:44 PM.
+     1>Project "C:\Users\Steven\Documents\Adcock_Project1Final\Adcock_Project1Final\Adcock_Project1Final\Adcock_Project1\Adcock_Project1.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Adcock_Project1.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         F:\Microsoft Visual Studio 2010 Professional\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Adcock_Project1.cpp
+         Adcock_Project1.cpp
+     1>c:\users\steven\documents\adcock_project1final\adcock_project1final\adcock_project1final\adcock_project1\adcock_project1.cpp(56): warning C4129: ' ' : unrecognized character escape sequence
+     1>c:\users\steven\documents\adcock_project1final\adcock_project1final\adcock_project1final\adcock_project1\adcock_project1.cpp(77): warning C4129: ' ' : unrecognized character escape sequence
+     1>c:\users\steven\documents\adcock_project1final\adcock_project1final\adcock_project1final\adcock_project1\adcock_project1.cpp(186): warning C4806: '|' : unsafe operation: no value of type 'bool' promoted to type 'char' can equal the given constant
+     1>c:\users\steven\documents\adcock_project1final\adcock_project1final\adcock_project1final\adcock_project1\adcock_project1.cpp(186): warning C4554: '|' : check operator precedence for possible error; use parentheses to clarify precedence
+       Link:
+         F:\Microsoft Visual Studio 2010 Professional\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Steven\Documents\Adcock_Project1Final\Adcock_Project1Final\Adcock_Project1Final\Debug\Adcock_Project1.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Adcock_Project1.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Steven\Documents\Adcock_Project1Final\Adcock_Project1Final\Adcock_Project1Final\Debug\Adcock_Project1.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Steven\Documents\Adcock_Project1Final\Adcock_Project1Final\Adcock_Project1Final\Debug\Adcock_Project1.lib" /MACHINE:X86 Debug\Adcock_Project1.obj
+         LINK : C:\Users\Steven\Documents\Adcock_Project1Final\Adcock_Project1Final\Adcock_Project1Final\Debug\Adcock_Project1.exe not found or not built by the last incremental link; performing full link
+         Adcock_Project1.vcxproj -> C:\Users\Steven\Documents\Adcock_Project1Final\Adcock_Project1Final\Adcock_Project1Final\Debug\Adcock_Project1.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Steven\Documents\Adcock_Project1Final\Adcock_Project1Final\Adcock_Project1Final\Debug\Adcock_Project1.exe;#1" /manifest Debug\Adcock_Project1.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\Adcock_Project1.unsuccessfulbuild".
+         Touching "Debug\Adcock_Project1.lastbuildstate".
+     1>Done Building Project "C:\Users\Steven\Documents\Adcock_Project1Final\Adcock_Project1Final\Adcock_Project1Final\Adcock_Project1\Adcock_Project1.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.15
